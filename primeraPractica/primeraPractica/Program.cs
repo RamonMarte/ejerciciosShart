@@ -34,7 +34,11 @@ namespace primeraPractica
 
             miCoche.conducir();
 
+            miCoche.Frenar();
+             
             miCoche.pararMotor();
+
+            miCoche.Mecanico();
 
             Console.WriteLine();
 
@@ -113,7 +117,20 @@ namespace primeraPractica
             Console.WriteLine("Toma la culba con desicion y destreza");
         }
 
+        public void Frenar()
+        {
 
+            Console.WriteLine(" El coche esta a punto de frenal");
+        }
+
+        public void Mecanico()
+        {
+
+            Console.WriteLine(" mi coche es mecanico y ahutomatico ");
+
+
+        }
+    
 
     }
 }
