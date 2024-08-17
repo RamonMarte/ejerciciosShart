@@ -1,0 +1,2 @@
+# ejerciciosShart
+Learning practices
