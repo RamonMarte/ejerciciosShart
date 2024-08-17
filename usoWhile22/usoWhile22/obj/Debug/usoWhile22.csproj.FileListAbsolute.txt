@@ -1,0 +1,7 @@
+C:\Users\marte\source\repos\usoWhile22\usoWhile22\bin\Debug\usoWhile22.exe.config
+C:\Users\marte\source\repos\usoWhile22\usoWhile22\bin\Debug\usoWhile22.exe
+C:\Users\marte\source\repos\usoWhile22\usoWhile22\bin\Debug\usoWhile22.pdb
+C:\Users\marte\source\repos\usoWhile22\usoWhile22\obj\Debug\usoWhile22.csproj.AssemblyReference.cache
+C:\Users\marte\source\repos\usoWhile22\usoWhile22\obj\Debug\usoWhile22.csproj.CoreCompileInputs.cache
+C:\Users\marte\source\repos\usoWhile22\usoWhile22\obj\Debug\usoWhile22.exe
+C:\Users\marte\source\repos\usoWhile22\usoWhile22\obj\Debug\usoWhile22.pdb

@@ -1,0 +1,7 @@
+C:\Users\marte\source\repos\Generico\Generico\bin\Debug\Generico.exe.config
+C:\Users\marte\source\repos\Generico\Generico\bin\Debug\Generico.exe
+C:\Users\marte\source\repos\Generico\Generico\bin\Debug\Generico.pdb
+C:\Users\marte\source\repos\Generico\Generico\obj\Debug\Generico.csproj.AssemblyReference.cache
+C:\Users\marte\source\repos\Generico\Generico\obj\Debug\Generico.csproj.CoreCompileInputs.cache
+C:\Users\marte\source\repos\Generico\Generico\obj\Debug\Generico.exe
+C:\Users\marte\source\repos\Generico\Generico\obj\Debug\Generico.pdb

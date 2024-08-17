@@ -1,0 +1,7 @@
+C:\Users\marte\source\repos\praticaRafael\praticaRafael\bin\Debug\praticaRafael.exe.config
+C:\Users\marte\source\repos\praticaRafael\praticaRafael\bin\Debug\praticaRafael.exe
+C:\Users\marte\source\repos\praticaRafael\praticaRafael\bin\Debug\praticaRafael.pdb
+C:\Users\marte\source\repos\praticaRafael\praticaRafael\obj\Debug\praticaRafael.csproj.AssemblyReference.cache
+C:\Users\marte\source\repos\praticaRafael\praticaRafael\obj\Debug\praticaRafael.csproj.CoreCompileInputs.cache
+C:\Users\marte\source\repos\praticaRafael\praticaRafael\obj\Debug\praticaRafael.exe
+C:\Users\marte\source\repos\praticaRafael\praticaRafael\obj\Debug\praticaRafael.pdb

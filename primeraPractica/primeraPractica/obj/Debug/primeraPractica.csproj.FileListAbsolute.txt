@@ -1,0 +1,7 @@
+C:\Users\marte\source\repos\primeraPractica\primeraPractica\bin\Debug\primeraPractica.exe.config
+C:\Users\marte\source\repos\primeraPractica\primeraPractica\bin\Debug\primeraPractica.exe
+C:\Users\marte\source\repos\primeraPractica\primeraPractica\bin\Debug\primeraPractica.pdb
+C:\Users\marte\source\repos\primeraPractica\primeraPractica\obj\Debug\primeraPractica.csproj.AssemblyReference.cache
+C:\Users\marte\source\repos\primeraPractica\primeraPractica\obj\Debug\primeraPractica.csproj.CoreCompileInputs.cache
+C:\Users\marte\source\repos\primeraPractica\primeraPractica\obj\Debug\primeraPractica.exe
+C:\Users\marte\source\repos\primeraPractica\primeraPractica\obj\Debug\primeraPractica.pdb

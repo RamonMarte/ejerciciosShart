@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marte\\source\\repos\\lanzamientoExceciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{965A21D4-45E5-4CC5-A5E5-7CF7E6988207}|lanzamientoExceciones\\lanzamientoExceciones.csproj|c:\\users\\marte\\source\\repos\\lanzamientoexceciones\\lanzamientoexceciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965A21D4-45E5-4CC5-A5E5-7CF7E6988207}|lanzamientoExceciones\\lanzamientoExceciones.csproj|solutionrelative:lanzamientoexceciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marte\\source\\repos\\lanzamientoExceciones\\lanzamientoExceciones\\Program.cs",
+              "RelativeDocumentMoniker": "lanzamientoExceciones\\Program.cs",
+              "ToolTip": "C:\\Users\\marte\\source\\repos\\lanzamientoExceciones\\lanzamientoExceciones\\Program.cs",
+              "RelativeToolTip": "lanzamientoExceciones\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T00:33:19.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

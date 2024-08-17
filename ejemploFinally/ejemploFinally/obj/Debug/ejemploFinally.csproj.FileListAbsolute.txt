@@ -1,0 +1,7 @@
+C:\Users\marte\source\repos\ejemploFinally\ejemploFinally\bin\Debug\ejemploFinally.exe.config
+C:\Users\marte\source\repos\ejemploFinally\ejemploFinally\bin\Debug\ejemploFinally.exe
+C:\Users\marte\source\repos\ejemploFinally\ejemploFinally\bin\Debug\ejemploFinally.pdb
+C:\Users\marte\source\repos\ejemploFinally\ejemploFinally\obj\Debug\ejemploFinally.csproj.AssemblyReference.cache
+C:\Users\marte\source\repos\ejemploFinally\ejemploFinally\obj\Debug\ejemploFinally.csproj.CoreCompileInputs.cache
+C:\Users\marte\source\repos\ejemploFinally\ejemploFinally\obj\Debug\ejemploFinally.exe
+C:\Users\marte\source\repos\ejemploFinally\ejemploFinally\obj\Debug\ejemploFinally.pdb

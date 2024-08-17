@@ -1,0 +1,7 @@
+C:\Users\marte\source\repos\avisosVarios\avisosVarios\bin\Debug\avisosVarios.exe.config
+C:\Users\marte\source\repos\avisosVarios\avisosVarios\bin\Debug\avisosVarios.exe
+C:\Users\marte\source\repos\avisosVarios\avisosVarios\bin\Debug\avisosVarios.pdb
+C:\Users\marte\source\repos\avisosVarios\avisosVarios\obj\Debug\avisosVarios.csproj.AssemblyReference.cache
+C:\Users\marte\source\repos\avisosVarios\avisosVarios\obj\Debug\avisosVarios.csproj.CoreCompileInputs.cache
+C:\Users\marte\source\repos\avisosVarios\avisosVarios\obj\Debug\avisosVarios.exe
+C:\Users\marte\source\repos\avisosVarios\avisosVarios\obj\Debug\avisosVarios.pdb

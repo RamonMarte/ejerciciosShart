@@ -1,0 +1,7 @@
+C:\Users\marte\source\repos\usoDowhile2\usoDowhile2\bin\Debug\usoDowhile2.exe.config
+C:\Users\marte\source\repos\usoDowhile2\usoDowhile2\bin\Debug\usoDowhile2.exe
+C:\Users\marte\source\repos\usoDowhile2\usoDowhile2\bin\Debug\usoDowhile2.pdb
+C:\Users\marte\source\repos\usoDowhile2\usoDowhile2\obj\Debug\usoDowhile2.csproj.AssemblyReference.cache
+C:\Users\marte\source\repos\usoDowhile2\usoDowhile2\obj\Debug\usoDowhile2.csproj.CoreCompileInputs.cache
+C:\Users\marte\source\repos\usoDowhile2\usoDowhile2\obj\Debug\usoDowhile2.exe
+C:\Users\marte\source\repos\usoDowhile2\usoDowhile2\obj\Debug\usoDowhile2.pdb

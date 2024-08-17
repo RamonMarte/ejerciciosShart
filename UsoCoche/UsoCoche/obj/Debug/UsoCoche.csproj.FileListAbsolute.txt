@@ -1,0 +1,7 @@
+C:\Users\marte\source\repos\UsoCoche\UsoCoche\bin\Debug\UsoCoche.exe.config
+C:\Users\marte\source\repos\UsoCoche\UsoCoche\bin\Debug\UsoCoche.exe
+C:\Users\marte\source\repos\UsoCoche\UsoCoche\bin\Debug\UsoCoche.pdb
+C:\Users\marte\source\repos\UsoCoche\UsoCoche\obj\Debug\UsoCoche.csproj.AssemblyReference.cache
+C:\Users\marte\source\repos\UsoCoche\UsoCoche\obj\Debug\UsoCoche.csproj.CoreCompileInputs.cache
+C:\Users\marte\source\repos\UsoCoche\UsoCoche\obj\Debug\UsoCoche.exe
+C:\Users\marte\source\repos\UsoCoche\UsoCoche\obj\Debug\UsoCoche.pdb

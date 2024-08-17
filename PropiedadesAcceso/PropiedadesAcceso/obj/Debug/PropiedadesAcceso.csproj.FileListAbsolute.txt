@@ -1,0 +1,7 @@
+C:\Users\marte\source\repos\PropiedadesAcceso\PropiedadesAcceso\bin\Debug\PropiedadesAcceso.exe.config
+C:\Users\marte\source\repos\PropiedadesAcceso\PropiedadesAcceso\bin\Debug\PropiedadesAcceso.exe
+C:\Users\marte\source\repos\PropiedadesAcceso\PropiedadesAcceso\bin\Debug\PropiedadesAcceso.pdb
+C:\Users\marte\source\repos\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\PropiedadesAcceso.csproj.AssemblyReference.cache
+C:\Users\marte\source\repos\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\PropiedadesAcceso.csproj.CoreCompileInputs.cache
+C:\Users\marte\source\repos\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\PropiedadesAcceso.exe
+C:\Users\marte\source\repos\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\PropiedadesAcceso.pdb

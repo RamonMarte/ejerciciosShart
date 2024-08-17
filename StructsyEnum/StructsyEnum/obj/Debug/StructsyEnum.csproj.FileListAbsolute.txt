@@ -1,0 +1,7 @@
+C:\Users\marte\source\repos\StructsyEnum\StructsyEnum\bin\Debug\StructsyEnum.exe.config
+C:\Users\marte\source\repos\StructsyEnum\StructsyEnum\bin\Debug\StructsyEnum.exe
+C:\Users\marte\source\repos\StructsyEnum\StructsyEnum\bin\Debug\StructsyEnum.pdb
+C:\Users\marte\source\repos\StructsyEnum\StructsyEnum\obj\Debug\StructsyEnum.csproj.AssemblyReference.cache
+C:\Users\marte\source\repos\StructsyEnum\StructsyEnum\obj\Debug\StructsyEnum.csproj.CoreCompileInputs.cache
+C:\Users\marte\source\repos\StructsyEnum\StructsyEnum\obj\Debug\StructsyEnum.exe
+C:\Users\marte\source\repos\StructsyEnum\StructsyEnum\obj\Debug\StructsyEnum.pdb

@@ -1,0 +1,7 @@
+C:\Users\marte\source\repos\usoArrays2\usoArrays2\bin\Debug\usoArrays2.exe.config
+C:\Users\marte\source\repos\usoArrays2\usoArrays2\bin\Debug\usoArrays2.exe
+C:\Users\marte\source\repos\usoArrays2\usoArrays2\bin\Debug\usoArrays2.pdb
+C:\Users\marte\source\repos\usoArrays2\usoArrays2\obj\Debug\usoArrays2.csproj.AssemblyReference.cache
+C:\Users\marte\source\repos\usoArrays2\usoArrays2\obj\Debug\usoArrays2.csproj.CoreCompileInputs.cache
+C:\Users\marte\source\repos\usoArrays2\usoArrays2\obj\Debug\usoArrays2.exe
+C:\Users\marte\source\repos\usoArrays2\usoArrays2\obj\Debug\usoArrays2.pdb

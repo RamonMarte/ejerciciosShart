@@ -1,0 +1,7 @@
+C:\Users\marte\source\repos\ConcectoPoo\ConcectoPoo\obj\Debug\ConcectoPoo.csproj.AssemblyReference.cache
+C:\Users\marte\source\repos\ConcectoPoo\ConcectoPoo\obj\Debug\ConcectoPoo.csproj.CoreCompileInputs.cache
+C:\Users\marte\source\repos\ConcectoPoo\ConcectoPoo\bin\Debug\ConcectoPoo.exe.config
+C:\Users\marte\source\repos\ConcectoPoo\ConcectoPoo\bin\Debug\ConcectoPoo.exe
+C:\Users\marte\source\repos\ConcectoPoo\ConcectoPoo\bin\Debug\ConcectoPoo.pdb
+C:\Users\marte\source\repos\ConcectoPoo\ConcectoPoo\obj\Debug\ConcectoPoo.exe
+C:\Users\marte\source\repos\ConcectoPoo\ConcectoPoo\obj\Debug\ConcectoPoo.pdb

@@ -1,0 +1,7 @@
+C:\Users\marte\source\repos\destrutores\destrutores\bin\Debug\destrutores.exe.config
+C:\Users\marte\source\repos\destrutores\destrutores\bin\Debug\destrutores.exe
+C:\Users\marte\source\repos\destrutores\destrutores\bin\Debug\destrutores.pdb
+C:\Users\marte\source\repos\destrutores\destrutores\obj\Debug\destrutores.csproj.AssemblyReference.cache
+C:\Users\marte\source\repos\destrutores\destrutores\obj\Debug\destrutores.csproj.CoreCompileInputs.cache
+C:\Users\marte\source\repos\destrutores\destrutores\obj\Debug\destrutores.exe
+C:\Users\marte\source\repos\destrutores\destrutores\obj\Debug\destrutores.pdb

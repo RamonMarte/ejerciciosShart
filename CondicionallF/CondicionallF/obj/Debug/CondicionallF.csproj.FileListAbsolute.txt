@@ -1,0 +1,7 @@
+C:\Users\marte\source\repos\CondicionallF\CondicionallF\bin\Debug\CondicionallF.exe.config
+C:\Users\marte\source\repos\CondicionallF\CondicionallF\bin\Debug\CondicionallF.exe
+C:\Users\marte\source\repos\CondicionallF\CondicionallF\bin\Debug\CondicionallF.pdb
+C:\Users\marte\source\repos\CondicionallF\CondicionallF\obj\Debug\CondicionallF.csproj.AssemblyReference.cache
+C:\Users\marte\source\repos\CondicionallF\CondicionallF\obj\Debug\CondicionallF.csproj.CoreCompileInputs.cache
+C:\Users\marte\source\repos\CondicionallF\CondicionallF\obj\Debug\CondicionallF.exe
+C:\Users\marte\source\repos\CondicionallF\CondicionallF\obj\Debug\CondicionallF.pdb

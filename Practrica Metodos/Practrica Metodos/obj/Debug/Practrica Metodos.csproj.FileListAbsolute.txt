@@ -1,0 +1,7 @@
+C:\Users\marte\source\repos\Practrica Metodos\Practrica Metodos\bin\Debug\Practrica Metodos.exe.config
+C:\Users\marte\source\repos\Practrica Metodos\Practrica Metodos\bin\Debug\Practrica Metodos.exe
+C:\Users\marte\source\repos\Practrica Metodos\Practrica Metodos\bin\Debug\Practrica Metodos.pdb
+C:\Users\marte\source\repos\Practrica Metodos\Practrica Metodos\obj\Debug\Practrica Metodos.csproj.AssemblyReference.cache
+C:\Users\marte\source\repos\Practrica Metodos\Practrica Metodos\obj\Debug\Practrica Metodos.csproj.CoreCompileInputs.cache
+C:\Users\marte\source\repos\Practrica Metodos\Practrica Metodos\obj\Debug\Practrica Metodos.exe
+C:\Users\marte\source\repos\Practrica Metodos\Practrica Metodos\obj\Debug\Practrica Metodos.pdb

@@ -1,0 +1,7 @@
+C:\Users\marte\source\repos\usochecked\usochecked\bin\Debug\usochecked.exe.config
+C:\Users\marte\source\repos\usochecked\usochecked\bin\Debug\usochecked.exe
+C:\Users\marte\source\repos\usochecked\usochecked\bin\Debug\usochecked.pdb
+C:\Users\marte\source\repos\usochecked\usochecked\obj\Debug\usochecked.csproj.AssemblyReference.cache
+C:\Users\marte\source\repos\usochecked\usochecked\obj\Debug\usochecked.csproj.CoreCompileInputs.cache
+C:\Users\marte\source\repos\usochecked\usochecked\obj\Debug\usochecked.exe
+C:\Users\marte\source\repos\usochecked\usochecked\obj\Debug\usochecked.pdb
