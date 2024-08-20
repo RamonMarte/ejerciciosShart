@@ -1,0 +1,7 @@
+C:\Users\marte\source\repos\Colecciones\Colecciones\bin\Debug\Colecciones.exe.config
+C:\Users\marte\source\repos\Colecciones\Colecciones\bin\Debug\Colecciones.exe
+C:\Users\marte\source\repos\Colecciones\Colecciones\bin\Debug\Colecciones.pdb
+C:\Users\marte\source\repos\Colecciones\Colecciones\obj\Debug\Colecciones.csproj.AssemblyReference.cache
+C:\Users\marte\source\repos\Colecciones\Colecciones\obj\Debug\Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\marte\source\repos\Colecciones\Colecciones\obj\Debug\Colecciones.exe
+C:\Users\marte\source\repos\Colecciones\Colecciones\obj\Debug\Colecciones.pdb
