@@ -9,30 +9,35 @@ namespace Colecciones
         static void Main(string[] args)
         {
 
-            List<int> Numeros = new List <int>();  // Declarar una lista (coleccion de tipo lista.
+            LinkedList<int> Numeros = new LinkedList<int>();
 
-            Console.WriteLine(" Introcuce elementos en la coleccion (0 Para salir) ");
-
-            int Elem = 1;
-
-            while (Elem != 0)
+            foreach (int numero in new int[] {10, 8, 6, 4, 2, 0 })
             {
 
-                Elem = Int32.Parse(Console.ReadLine());
-
-                Numeros.Add(Elem);
+                Numeros.AddLast(numero);
             }
 
-            Numeros.Remove(Numeros.Count - 1);
+            // Numeros.Remove(6);
 
-            Console.WriteLine(" Elemetos introducidos ");
+            LinkedListNode<int> nodoInportante = new LinkedListNode<int>(15);
 
-            foreach(int Elemetos in Numeros)
+            Numeros.AddFirst(nodoInportante);
+
+           /* foreach(int numero in Numeros)
             {
 
-                Console.WriteLine(Elemetos);
-            }
+                Console.WriteLine(numero);
+            }*/
 
-        }
+
+            for(LinkedListNode<int> nodo = Numeros.First; nodo != null; nodo = nodo.Next)
+            {
+
+                int numero = nodo.Value;
+
+                Console.WriteLine(numero);
+
+            }
+        }  
     }
 }
