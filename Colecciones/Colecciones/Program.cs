@@ -9,35 +9,41 @@ namespace Colecciones
         static void Main(string[] args)
         {
 
-            LinkedList<int> Numeros = new LinkedList<int>();
+            Queue<int> Numeros = new Queue<int>();
 
-            foreach (int numero in new int[] {10, 8, 6, 4, 2, 0 })
+            // rellenando o agregando elementos a la cola
+
+            foreach (int numero in new int[5] { 2, 4, 6, 8, 10 })
             {
 
-                Numeros.AddLast(numero);
+                Numeros.Enqueue(numero);
             }
 
-            // Numeros.Remove(6);
 
-            LinkedListNode<int> nodoInportante = new LinkedListNode<int>(15);
+            // Recorriendo la cola 
 
-            Numeros.AddFirst(nodoInportante);
+            Console.WriteLine(" Recorriendo el queue ");
 
-           /* foreach(int numero in Numeros)
+            foreach(int numero in Numeros)
             {
 
                 Console.WriteLine(numero);
-            }*/
+            }
 
+            // Eliminando elementos del queue o cola
 
-            for(LinkedListNode<int> nodo = Numeros.First; nodo != null; nodo = nodo.Next)
+            Console.WriteLine(" Eliminando elementos ");
+
+            Numeros.Dequeue();
+
+            foreach (int numero in Numeros)
             {
 
-                int numero = nodo.Value;
-
                 Console.WriteLine(numero);
-
             }
-        }  
+
+
+
+        }
     }
 }
