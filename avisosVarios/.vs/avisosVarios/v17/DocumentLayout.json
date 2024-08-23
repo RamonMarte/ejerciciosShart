@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{D469BEFB-FB05-4B63-AF68-0A98C0B97153}|avisosVarios\\avisosVarios.csproj|solutionrelative:avisosvarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D469BEFB-FB05-4B63-AF68-0A98C0B97153}|avisosVarios\\avisosVarios.csproj|c:\\users\\marte\\source\\repos\\avisosvarios\\avisosvarios\\avisostrafico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D469BEFB-FB05-4B63-AF68-0A98C0B97153}|avisosVarios\\avisosVarios.csproj|C:\\Users\\marte\\source\\repos\\avisosVarios\\avisosvarios\\avisostrafico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D469BEFB-FB05-4B63-AF68-0A98C0B97153}|avisosVarios\\avisosVarios.csproj|solutionrelative:avisosvarios\\avisostrafico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D469BEFB-FB05-4B63-AF68-0A98C0B97153}|avisosVarios\\avisosVarios.csproj|c:\\users\\marte\\source\\repos\\avisosvarios\\avisosvarios\\iavisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D469BEFB-FB05-4B63-AF68-0A98C0B97153}|avisosVarios\\avisosVarios.csproj|C:\\Users\\marte\\source\\repos\\avisosVarios\\avisosvarios\\iavisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D469BEFB-FB05-4B63-AF68-0A98C0B97153}|avisosVarios\\avisosVarios.csproj|solutionrelative:avisosvarios\\iavisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,8 +34,7 @@
               "RelativeToolTip": "avisosVarios\\AvisosTrafico.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAAACIAAABuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T22:44:48.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T22:44:48.967Z"
             },
             {
               "$type": "Document",
@@ -47,8 +46,7 @@
               "RelativeToolTip": "avisosVarios\\IAvisos.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T22:38:28.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T22:38:28.301Z"
             },
             {
               "$type": "Document",
@@ -58,7 +56,7 @@
               "RelativeDocumentMoniker": "avisosVarios\\Program.cs",
               "ToolTip": "C:\\Users\\marte\\source\\repos\\avisosVarios\\avisosVarios\\Program.cs",
               "RelativeToolTip": "avisosVarios\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBAAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T22:29:33.034Z",
               "EditorCaption": ""

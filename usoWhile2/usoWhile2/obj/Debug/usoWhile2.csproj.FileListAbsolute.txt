@@ -1,0 +1,7 @@
+C:\Users\marte\source\repos\usoWhile2\usoWhile2\bin\Debug\usoWhile2.exe.config
+C:\Users\marte\source\repos\usoWhile2\usoWhile2\bin\Debug\usoWhile2.exe
+C:\Users\marte\source\repos\usoWhile2\usoWhile2\bin\Debug\usoWhile2.pdb
+C:\Users\marte\source\repos\usoWhile2\usoWhile2\obj\Debug\usoWhile2.csproj.AssemblyReference.cache
+C:\Users\marte\source\repos\usoWhile2\usoWhile2\obj\Debug\usoWhile2.csproj.CoreCompileInputs.cache
+C:\Users\marte\source\repos\usoWhile2\usoWhile2\obj\Debug\usoWhile2.exe
+C:\Users\marte\source\repos\usoWhile2\usoWhile2\obj\Debug\usoWhile2.pdb

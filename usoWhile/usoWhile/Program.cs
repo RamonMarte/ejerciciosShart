@@ -31,7 +31,7 @@ namespace usoWhile
 
             }
 
-            Console.WriteLine("Has salido del bucle");
+            Console.WriteLine("Has salido del bucless");
 
         }
     }
